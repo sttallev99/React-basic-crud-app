@@ -1,0 +1,29 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Programing Basics",
+      "description": "Some description"
+    },
+    {
+      "id": 2,
+      "name": "JS Fundamentals",
+      "description": "Some description"
+    },
+    {
+      "id": 3,
+      "name": "JS Advanced",
+      "description": "Some description"
+    },
+    {
+      "id": 4,
+      "name": "JS WEB",
+      "description": "Some description"
+    },
+    {
+      "name": "Georgi",
+      "description": "42",
+      "id": 5
+    }
+  ]
+}
