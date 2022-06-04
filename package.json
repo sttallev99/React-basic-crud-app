@@ -2,7 +2,7 @@
   "name": "basic-crud",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sttallev99.github.io",
+  "homepage": "https://sttallev99.github.io/React-basic-crud-app",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
